@@ -1,4 +1,4 @@
-# home-improvement-product-sales-dashboard
+# Home Improvement Product Sales Dashboard
 
 **🌟 Project Overview**
 
@@ -64,7 +64,7 @@ The dashboard includes six primary KPIs:
 
 **📈  Dashboard Visualizations**
 
-![Dashboard Screenshot](Images/Final_Dashboard.png )
+![Dashboard Screenshot](Images/final_dashboard.png )
 
 **✅ Conclusion**
 
